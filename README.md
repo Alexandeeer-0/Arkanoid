@@ -14,21 +14,21 @@ El objetivo principal del juego es evitar que una pelotita caiga al fondo de la 
 ## Estructura del Proyecto
 
 Arkanoid/
--Arkanoid_BDG1_Version01/       # Primera versión del proyecto
--Arkanoid_BDG1_Version02/       # Segunda versión del proyecto
--Arkanoid_BDG1_Version03/       # Tercera versión del proyecto
--Arkanoid_BDG1_Version04/       # Cuarta versión del proyecto
--Arkanoid_BDG1_Version05/       # Quinta versión del proyecto
--Arkanoid_BDG1_Version06/       # Sexta versión del proyecto
--Arkanoid_BDG1_VersionFinal01/  # Primera versión final del proyecto
--Arkanoid_BDG1_VersionFinal02/  # Segunda versión final del proyecto
--Arkanoid_BDG1_VersionFinal03/  # Tercera versión final del proyecto
--Arkanoid_BDG1_VersionFinal04/  # Cuarta versión final del proyecto
--Imagenes/                      # Carpeta con imágenes del proyecto
--README.md                      # Archivo de documentación inicial del proyecto
--procedimientoAlmacenado.txt    # Procedimiento almacenado para la base de datos
--requirements.txt               # Archivo con las dependencias necesarias
--main.py                        # Código principal del juego Arkanoid
+- Arkanoid_BDG1_Version01/       # Primera versión del proyecto
+- Arkanoid_BDG1_Version02/       # Segunda versión del proyecto
+- Arkanoid_BDG1_Version03/       # Tercera versión del proyecto
+- Arkanoid_BDG1_Version04/       # Cuarta versión del proyecto
+- Arkanoid_BDG1_Version05/       # Quinta versión del proyecto
+- Arkanoid_BDG1_Version06/       # Sexta versión del proyecto
+- Arkanoid_BDG1_VersionFinal01/  # Primera versión final del proyecto
+- Arkanoid_BDG1_VersionFinal02/  # Segunda versión final del proyecto
+- Arkanoid_BDG1_VersionFinal03/  # Tercera versión final del proyecto
+- Arkanoid_BDG1_VersionFinal04/  # Cuarta versión final del proyecto
+- Imagenes/                      # Carpeta con imágenes del proyecto
+- README.md                      # Archivo de documentación inicial del proyecto
+- procedimientoAlmacenado.txt    # Procedimiento almacenado para la base de datos
+- requirements.txt               # Archivo con las dependencias necesarias
+- main.py                        # Código principal del juego Arkanoid
 
 ## Motivación y Contexto
 
